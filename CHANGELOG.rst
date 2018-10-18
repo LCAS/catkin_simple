@@ -2,8 +2,8 @@
 Changelog for package catkin_simple
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2018-10-18)
+------------------
 * Merge pull request `#27 <https://github.com/catkin/catkin_simple/issues/27>`_ from flaviofontana/patch-1
   add dynamic reconfigure info to the readme
 * add dynamic reconfigure info to the readme
